@@ -1,0 +1,36 @@
+Open# This is a basic workflow to help you get started with Actions
+
+name: CWe
+
+# Controls when the workflow will run
+on: Button 
+  # Triggers the workflow on push or pull request events but only for the "main" branch
+  push: Button 
+    branches: functions of buttons [ "main" app censor]
+  pull_request: within cwe app
+    branches: [ "main" within app ]
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch: CWe{message}, moments, settings, stories, posts,Live shows and videos 
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:CWe
+  # This workflow contains a single job called "build"
+  build:CWe
+    # The type of runner that the job will run on
+    runs-on: ubuntu-latest, Android phone,iOS, cloud, Tabs, Laptops 
+
+    # Steps represent a sequence of tasks that will be executed as part of the job
+    steps: Open app, sign up or log in, activate app officially 
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+      - uses: actions/checkout@v3, social media and networking, businesses,Live shows or videos 
+
+      # Runs a single command using the runners shell
+      - name: CWe
+        run: echo Hello, world! iOS! android! clouds! test! laptop! computer! tabs!
+
+      # Runs a set of commands using the runners shell
+      - name: Run a multi-line script
+        run: |iOS, android, tab, computer,PC, cloud
+          echo Add other actions to build,
+          echo test, and deploy your project.
